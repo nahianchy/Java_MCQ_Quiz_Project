@@ -1,0 +1,122 @@
+[
+  {
+    "option c": "Sanity Testing",
+    "option d": "Regression Testing",
+    "answer": "a",
+    "Question": "Which testing is done by developer?",
+    "option a": "Unit Testing",
+    "option b": "Integration Testing"
+  },
+  {
+    "option c": "Gorilla Testing",
+    "option d": "Benchmark Testing",
+    "answer": "c",
+    "Question": "Which is functional testing?",
+    "option a": "Load Testing",
+    "option b": "Security Testing"
+  },
+  {
+    "option c": "Peer Review",
+    "option d": "Inspection",
+    "answer": "b",
+    "Question": "Which is not static testing?",
+    "option a": "Walkthrough",
+    "option b": "Exploratory Testing"
+  },
+  {
+    "option c": "Failure",
+    "option d": "Defect",
+    "answer": "c",
+    "Question": "A deviation from of actual result from the expected result to the end user is called",
+    "option a": "Fault",
+    "option b": "Bug"
+  },
+  {
+    "option c": "Comparing actual results to expected results",
+    "option d": "Analyzing the cause of failure",
+    "answer": "a",
+    "Question": "Which of the following is a typical test objective?",
+    "option a": "Preventing Defects",
+    "option b": "Repairing Defects"
+  },
+  {
+    "option c": "The error",
+    "option d": "The defect",
+    "answer": "b",
+    "Question": "Suppose you visit a site but you see that the site is down. What is the reason?",
+    "option a": "The fault",
+    "option b": "The failure"
+  },
+  {
+    "option c": "Fault",
+    "option d": "Failure",
+    "answer": "c",
+    "Question": "What is missing requirement?",
+    "option a": "Error",
+    "option b": "Bug"
+  },
+  {
+    "option c": "While doing automation",
+    "option d": "Test procedure Planning",
+    "answer": "d",
+    "Question": "Test data planning is included when",
+    "option a": "Equivalent partitioning",
+    "option b": "Boundary value analysis"
+  },
+  {
+    "option c": "Test Scenario",
+    "option d": "Test Data",
+    "answer": "c",
+    "Question": "_________ is also called Test Condition or Test Possibility.",
+    "option a": "Test Plan",
+    "option b": "Test Case"
+  },
+  {
+    "option c": "To test the ability of the program to handle unusual unexpected input",
+    "option d": "All of the above",
+    "answer": "d",
+    "Question": "What are test data?",
+    "option a": "The input given to a software program",
+    "option b": "To verify that an input to a given function produces an expected result"
+  },
+  {
+    "option c": "Non-Functional Testing",
+    "option d": "All of these",
+    "answer": "c",
+    "Question": "___________ is a type of testing to check the performance, usability, reliability of a software.",
+    "option a": "Functional Testing",
+    "option b": "Maintenance Testing"
+  },
+  {
+    "option c": "Flexibility Testing",
+    "option d": "Performance Testing",
+    "answer": "d",
+    "Question": "The main goal of this is not to find bugs but to eliminate bottlenecks.",
+    "option a": "Security Testing",
+    "option b": "Scalability Testing"
+  },
+  {
+    "option c": "Negative Testing",
+    "option d": "All of the above",
+    "answer": "c",
+    "Question": "The type of testing that is used to make sure that the system can handle unexpected conditions.",
+    "option a": "Performance Testing",
+    "option b": "Functional Testing"
+  },
+  {
+    "option c": "Both of the above",
+    "option d": "None of the above",
+    "answer": "a",
+    "Question": "Dynamic testing is mainly",
+    "option a": "Validation Techniques",
+    "option b": "Verification Techniques"
+  },
+  {
+    "option c": "Report Bugs",
+    "option d": "Decide which tests should be automated",
+    "answer": "d",
+    "Question": "What of the following is not a key task of a tester",
+    "option a": "Writing test cases",
+    "option b": "Identify Bugs"
+  }
+]
